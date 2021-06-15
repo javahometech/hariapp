@@ -1,3 +1,2 @@
 This is git demo
 We are learning git
-Apples are good for health
